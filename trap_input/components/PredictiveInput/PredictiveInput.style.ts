@@ -13,7 +13,7 @@ export const styles = StyleSheet.create({
     alignItems: 'space-between',
     flexDirection: 'row',
     borderRadius: 4,
-    backgroundColor: '#297FD9',
+    backgroundColor: '#F5FCFF',
   },
   listContainer: {
     left: 0,
